@@ -24,5 +24,8 @@ A API permite realizar operações básicas de um CRUD:
 - Spring Boot
 - Spring Web (REST)
 - Maven (para build)
+- 
 
 Este projeto foi criado como parte do meu aprendizado em Java e desenvolvimento de APIs REST. O foco principal é dominar os fundamentos antes de partir para tecnologias mais avançadas como banco de dados, testes automatizados e autenticação.
+
+📌 Esse projeto estará em evolução para fins de aprendizado e portfólio
