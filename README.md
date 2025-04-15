@@ -12,11 +12,11 @@ Este projeto é uma API REST simples desenvolvida em Java com Spring Boot, com o
 
 A API permite realizar operações básicas de um CRUD:
 
-- ✅ Criar um novo usuário
-- 📖 Listar todos os usuários
-- 🔍 Buscar usuário por ID
-- ✏️ Atualizar dados de um usuário
-- ❌ Remover um usuário
+- Criar um novo usuário
+- Listar todos os usuários
+- Buscar usuário por ID
+- Atualizar dados de um usuário
+- Remover um usuário
 
  Tecnologias utilizadas
 
